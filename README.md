@@ -9,8 +9,8 @@ A clean executive dashboard for monitoring clinical wait times across multiple l
 2. Copy `.env.example` to `.env.local`
 3. Add your API key to the `API_KEY` environment variable
 4. Run the development server 
-   bash```yarn```
-   bash```yarn dev```
+   ```yarn```
+   ```yarn dev```
 
 ## Environment Variables
 
