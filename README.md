@@ -8,9 +8,9 @@ A clean executive dashboard for monitoring clinical wait times across multiple l
    git clone https://github.com/jtpennell/tend-dashboard.git
 2. Copy `.env.example` to `.env.local`
 3. Add your API key to the `API_KEY` environment variable
-4. Run the development server 
-   ```yarn```
-   ```yarn dev```
+4. Initialize and run the development server 
+   ```yarn
+   yarn dev```
 
 ## Environment Variables
 
